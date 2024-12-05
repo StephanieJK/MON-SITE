@@ -1,0 +1,31 @@
+.Logo span{
+font-size: 45px;
+background: linear-gradient(to right, rgb(3, 12, 138) ,rgb(212, 7, 7) );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.Logo {
+    text-align: center;
+    width: 100%;
+     }
+.Language {
+    text-align: center;
+
+}
+.bouton {
+    padding: 15px 20px;
+    background-color: rgb(124, 31, 54);
+    color: rgb(231, 225, 225);
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+   
+
+}
+.box {
+    text-align: center;
+}
+.gallery {
+    display: flex; 
+    justify-content: space-around;
+}
